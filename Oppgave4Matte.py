@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  5 11:20:12 2024
-
-@author: theahollokken
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.sparse as sp
